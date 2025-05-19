@@ -1,0 +1,15 @@
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\bin\Debug\net8.0\EasyExamples.exe
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\bin\Debug\net8.0\EasyExamples.deps.json
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\bin\Debug\net8.0\EasyExamples.runtimeconfig.json
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\bin\Debug\net8.0\EasyExamples.dll
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\bin\Debug\net8.0\EasyExamples.pdb
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\obj\Debug\net8.0\EasyExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\obj\Debug\net8.0\EasyExamples.AssemblyInfoInputs.cache
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\obj\Debug\net8.0\EasyExamples.AssemblyInfo.cs
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\obj\Debug\net8.0\EasyExamples.csproj.CoreCompileInputs.cache
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\obj\Debug\net8.0\EasyExamples.sourcelink.json
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\obj\Debug\net8.0\EasyExamples.dll
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\obj\Debug\net8.0\refint\EasyExamples.dll
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\obj\Debug\net8.0\EasyExamples.pdb
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\obj\Debug\net8.0\EasyExamples.genruntimeconfig.cache
+C:\Users\barha\RiderProjects\EasyExamples\EasyExamples\obj\Debug\net8.0\ref\EasyExamples.dll
