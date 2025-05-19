@@ -16,7 +16,7 @@ public class Program
             new Person { Value = 200 },
         };
         var program = new Program();
-        Console.WriteLine($"WITH LINQ total = {program.GetTotal(persons)}");
+        Console.WriteLine($"WITH LINQ total = {program.GetTotalOld(persons)}");
         Console.WriteLine($"WITHOUT LINQ total = {program.GetTotal(persons)}");
     }
     
